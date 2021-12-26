@@ -1,1 +1,6 @@
-
+<report>
+  <id>1</id>
+  <description>Error 404</description>
+  <priority>blocker</priority>
+  <status>opened</status>
+</report>
